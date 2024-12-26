@@ -1,6 +1,6 @@
 <h1>🚀 Tech News: My Tech News Portal 🖥️</h1>
 
-Tech News is an app I developed to test and improve my skills with CSS Grid. 🧑‍💻 ⚠️⚠️not responsive yet!⚠️⚠️
+Tech News is an app I developed to test and improve my skills with CSS Grid. 🧑‍💻 ⚠️not responsive yet!⚠️
 
 The goal was to create a tech news portal with a modern layout. It was a great opportunity to apply Grid Layout concepts.
 
