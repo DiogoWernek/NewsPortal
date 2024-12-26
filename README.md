@@ -8,4 +8,4 @@ This project was part of a practical challenge from <a href="https://www.rockets
 
 💡 Tip: If you're looking to master CSS Grid, I highly recommend doing practical projects like this one.
 
-<img src="https://github.com/user-attachments/assets/72936479-ab56-4678-853a-71fb0938f784">
+<img src="https://github.com/user-attachments/assets/8115519a-fcd6-4736-a2c1-10c23fae49eb">
